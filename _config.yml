@@ -347,3 +347,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
