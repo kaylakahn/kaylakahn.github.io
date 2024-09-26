@@ -25,7 +25,7 @@ author:
   name             : "Kayla Kahn"
   pronouns         : # example: "she/her"  
   bio              : "International conflict researcher, data scientist"
-  location         : "Earth"
+  #location         : "Earth"
   employer         : "Penn State"
   uri              : # URL
   email            : "kaylakahn3@gmail.com" 
