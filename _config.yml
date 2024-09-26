@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "IMG_6739 copy.jpg"
   name             : "Kayla Kahn"
-  pronouns         : # example: "she/her"  
-  bio              : "International conflict researcher, data scientist"
+  pronouns         : "she/her"  
+ # bio              : "International conflict researcher, data scientist"
   #location         : "Earth"
   employer         : "Penn State"
   uri              : # URL
