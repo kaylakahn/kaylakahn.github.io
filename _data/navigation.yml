@@ -13,7 +13,7 @@ main:
     url: https://scholar.google.com/citations?user=dDxrgQUAAAAJ&hl=en&oi=ao
 
   - title: "Misc"
-   url: /portfolio/
+    url: /portfolio/
 
  # - title: "Talks"
  #   url: /talks/    
