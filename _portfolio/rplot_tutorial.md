@@ -1,6 +1,6 @@
 ---
-title: "GGPlot Tutorial"
-permalink: /ggplot-tutorial/
+title: "Plotting in R Tutorial"
+permalink: /rplot-tutorial/
 layout: single
 ---
 
