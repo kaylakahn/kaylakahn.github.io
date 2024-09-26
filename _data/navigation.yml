@@ -9,11 +9,11 @@ main:
   - title: "Resume"
     url: /files/Resume_sept2024.pdf
     
-  - title: "Papers"
-    url: /publications/
+  - title: "Research"
+    url: https://scholar.google.com/citations?user=dDxrgQUAAAAJ&hl=en&oi=ao
 
-    - title: "Scripts and Tutorials"
-    url: /portfolio/
+  # - title: "Scripts and Tutorials"
+  # url: /portfolio/
 
  # - title: "Talks"
  #   url: /talks/    
