@@ -10,7 +10,7 @@ main:
     url: /files/Resume_sept2024.pdf
     
   - title: "Research"
-    url: https://scholar.google.com/citations?user=dDxrgQUAAAAJ&hl=en&oi=ao
+    url: /research/
 
   - title: "Misc"
     url: /portfolio/
