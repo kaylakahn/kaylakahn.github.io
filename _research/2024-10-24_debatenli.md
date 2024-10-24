@@ -8,5 +8,5 @@ date: 2024-9-03
 venue: 'Working Paper'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2409.02078'
-citation: 'Burnham, Michael, Kayla Kahn, Ryan Yank Wang, and Rachel X. Peng. 2024. &quot;Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text.&quot; <i>arXiv:2409.02078  1</i>.'
+citation: 'Burnham, Michael, Kayla Kahn, Ryan Yank Wang, and Rachel X. Peng. 2024. &quot;Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text.&quot; <i>arXiv:2409.02078</i>.'
 ---
