@@ -13,9 +13,9 @@ date: 2025-04-02
 <details>
 <summary><strong>Details</strong></summary>
 <br>
-**Abstract:**
+<strong>Abstract:</strong>
 There is a consensus within existing literature in the terrorism field that cooperation between terrorist groups increases their survival. Such a consensus is lacking where lethality is concerned, in no small part due to lethality rarely being studied as a primary explanatory variable for survival. Furthermore, existing literature does not use statistical network methods to examine survival as a dependent variable. This article uses network analysis to examine the effect that both lethality and alliances have on terrorist group survival. I find that the consensus regarding cooperation holds; even when taking network dependencies into account, cooperation leads to longer survival. I also find support for lethality having a curvilinear effect on survival.
 <br>
-**Other details:** Uses RSiena and accelerated failure time models
+<strong>Other details:</strong> Uses RSiena and accelerated failure time models
 
 </details>
