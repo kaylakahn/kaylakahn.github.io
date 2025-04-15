@@ -14,10 +14,10 @@ date: 2025-03-30
 
 <details>
 <summary><strong>Details</strong></summary>
-
+<br>
 **Abstract:**
  Existing literature in the terrorism field emphasizes the connection between terrorist group alliances, rivalries, and lethality. Building off of the extant literature, this study uses original data on alliances and rivalries in order to assess lethality while accounting for dependence between terrorist groups. I find little evidence that the count of alliances drives lethality. Instead, it is embeddedness of a group within the broader alliance network that leads to increased lethality. I also find support for the outbidding hypothesis.
-
+<br>
 **Other details:** Uses temporal network autocorrelation models 
 
 </details>

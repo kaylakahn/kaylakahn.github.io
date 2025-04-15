@@ -13,10 +13,10 @@ date: 2025-04-01
 
 <details>
 <summary><strong>Details</strong></summary>
-
+<br>
 **Abstract:**
 The terrorism field has long been embroiled in a debate over whether terrorism is an effective coercive tactic. Some argue that terrorism is effective because groups choose the best method available to achieve their goals, while others argue that terrorists do not achieve their long-term goals. Missing from this debate is the distinction between key organizational attributes that may benefit or hinder success. I explore organizational lethality as one such attribute and examine the impact that it has on group success. I show that there is a nonlinear relationship between lethality, success, and failure. Moderate levels of lethality are where groups are most likely to see success, but this is also when they are most likely to be forcibly eliminated.
-
+<br>
 **Other details:** Uses cause-specific competing risks Cox proportional hazards models
 
 </details>
