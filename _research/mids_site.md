@@ -7,6 +7,6 @@ permalink: /research/mids_site
 #date: 2021-02-26
 venue: 'Conflict Management and Peace Science'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/0738894221995743'
-citation: 'Palmer, Glenn, Roseanne W McManus, Vito D’Orazio, Michael R Kenwick, Mikaela Karstens, Chase Bloch, Nick Dietrich, Kayla Kahn, Kellan Ritter, and Michael J Soules. 2022. Paper Title Number 3. <i>Conflict Management and Peace Science</i>. 39(4).'
+citation: 'Palmer, Glenn, Roseanne W McManus, Vito D’Orazio, Michael R Kenwick, Mikaela Karstens, Chase Bloch, Nick Dietrich, Kayla Kahn, Kellan Ritter, and Michael J Soules. 2022. <i>Conflict Management and Peace Science</i>. 39(4).'
 ---
 
