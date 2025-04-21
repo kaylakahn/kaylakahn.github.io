@@ -95,7 +95,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid $masthead-link-color;
     }
   }
 }
@@ -126,6 +126,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  color: $masthead-link-color
 }
 
 .sidebar .author__desktop {
@@ -142,6 +143,10 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+}
+
+.sidebar .author__pronouns {
+  color: $masthead-link-color
 }
 
 .author__bio {
@@ -256,5 +261,13 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+.sidebar .author__urls a {
+  color: $masthead-link-color;
+
+  &:hover {
+    color: $masthead-link-color-hover;
   }
 }
