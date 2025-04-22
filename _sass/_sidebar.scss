@@ -131,8 +131,10 @@
 
 .sidebar .author__desktop {
   display: none;
+
   @media screen and (min-width: 1024px) {
     display: block;
+    color: $masthead-link-color;
   }
 }
 
@@ -270,8 +272,4 @@
   &:hover {
     color: $masthead-link-color-hover;
   }
-}
-
-.sidebar .author__employer {
-  color: $masthead-link-color;
 }

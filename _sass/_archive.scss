@@ -76,13 +76,17 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
-
-  .archive__item-title {
-    text-decoration: underline;
+    box-shadow: 0 0 10px rgba(#000, 0.25); /* shadow when hover */
   }
 }
+
+.archive__item-title {
+  text-decoration: none;
+} /* no underline if not a link */
+
+.archive__item-title a:hover {
+  text-decoration: underline;
+} /* underline if link */
 
 
 /*
