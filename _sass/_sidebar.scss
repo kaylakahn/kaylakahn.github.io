@@ -274,7 +274,6 @@
   }
 }
 
-.sidebar .author__urls a i,
-.sidebar .author__urls a svg {
-  all: unset;
+.sidebar .author__urls a i {
+  color: unset !important;
 }
