@@ -282,8 +282,8 @@
 
 /* penn state icon color */
 .sidebar .author__urls a i.fa-building-columns::before {
-  font-family: "Font Awesome 6 Free" !important;
-  font-weight: 900 !important; /* Solid style */
-  content: "\f19c" !important; /* Unicode for building-columns */
   color: #86b3d1 !important;
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900 !important;
+  content: "\f19c" !important; /* Unicode for building-columns */
 }
