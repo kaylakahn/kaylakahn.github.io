@@ -283,6 +283,11 @@
 /* penn state icon color */
 .sidebar .author__urls a i.fa-building-columns {
   color: #86b3d1 !important;
+  fill: currentColor !important;
+  font-style: normal !important;
+}
+
+.sidebar .author__urls a i.fa-building-columns::before {
+  color: #86b3d1 !important;
   fill: #86b3d1 !important;
-  font-style: normal !important;  /* Just in case */
 }
