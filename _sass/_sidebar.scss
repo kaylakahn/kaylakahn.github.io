@@ -276,6 +276,5 @@
 
 .sidebar .author__urls a i,
 .sidebar .author__urls a svg {
-  color: inherit;
-  fill: inherit;
+  all: unset;
 }
