@@ -273,3 +273,9 @@
     color: $masthead-link-color-hover;
   }
 }
+
+.sidebar .author__urls a i,
+.sidebar .author__urls a svg {
+  color: initial !important;
+  fill: initial !important;
+}
