@@ -274,6 +274,8 @@
   }
 }
 
-.sidebar .author__urls a i {
+.sidebar .author__urls a i,
+.sidebar .author__urls a svg {
   color: #86b3d1 !important;
+  fill: #86b3d1 !important;
 }
