@@ -6,7 +6,7 @@ permalink: /research/lethality_tnam_chapter_may
 #excerpt: ''
 #date: 2024-10-24
 #venue: 'Working Paper'
-paperurl: 'http://kaylakahn.github.io/files/lethality_tnam_chapter_may.pdf'
+paperurl: 'http://kaylakahn.github.io/files/ch1_june.pdf'
 #paperurl: 'http://academicpages.github.io/files/lethality_chapter_sept24.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 date: 2025-03-30
