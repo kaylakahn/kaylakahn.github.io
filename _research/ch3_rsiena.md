@@ -6,7 +6,7 @@ permalink: /research/ch3_rsiena
 #excerpt: ''
 #date: 2024-10-24
 #venue: 'Working Paper'
-paperurl: 'http://kaylakahn.github.io/files/ch3_june.pdf'
+paperurl: 'http://kaylakahn.github.io/files/ch3_june2.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 date: 2025-04-02
 ---
